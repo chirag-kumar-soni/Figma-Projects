@@ -14,4 +14,4 @@ The design focuses on **clean navigation, minimal visuals, and an intuitive user
 - Figma
 ## 🎨 Preview
 
-![Delivery App UI](./screenshots/mockup.png)
+![Delivery App UI](delievery app/mockup.png)

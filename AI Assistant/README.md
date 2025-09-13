@@ -12,7 +12,6 @@ The design focuses on **clean layout, quick access, and a futuristic feel** to s
 
 ## 🛠 Tools Used
 - Figma  
-- Gamma AI (for presentation mockups)
 
 ## 🎨 Preview
 ![AI Assistant UI](./assistantmockup.png)

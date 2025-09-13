@@ -11,7 +11,8 @@ The design focuses on **clean layout, quick access, and a futuristic feel** to s
 - User profile and settings screen  
 
 ## 🛠 Tools Used
-- Figma  
+- Figma
+![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
 
 ## 🎨 Preview
 ![AI Assistant UI](./assistantmockup.png)

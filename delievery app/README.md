@@ -11,7 +11,9 @@ The design focuses on **clean navigation, minimal visuals, and an intuitive user
 - Profile and settings screens  
 
 ## 🛠 Tools Used
-- Figma
+- Figma   ![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
+
+
 ## 🎨 Preview
 
 ![Delivery App UI](./mockup.png)

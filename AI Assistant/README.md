@@ -6,8 +6,7 @@ The design focuses on **clean layout, quick access, and a futuristic feel** to s
 ## ✨ Features
 - Dashboard with quick actions (search, reminders, notes)  
 - Voice interaction button with glowing animation  
-- Chat interface for conversations  
-- Dark and light theme variants  
+- Chat interface for conversations   
 - User profile and settings screen  
 
 ## 🛠 Tools Used

@@ -8,10 +8,17 @@ A mordern, responsive, and visually appelaing landing page redesign to improve f
 - Smooth layout and typography
 - Clear Call-to-Action Buttons
 
+---
+
 ## 🛠️ Tools Used
 - Figma ![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
 
+---
 
 ## 📸 Preview
-![Redesigned Website](./redesigned_website.jpg)
+<p align="center">
+  <img src="redesigned_website.jpg" width="175"/>
 
+</p>
+
+---

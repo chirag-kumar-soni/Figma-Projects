@@ -7,7 +7,7 @@ A mordern, responsive, and visually appelaing landing page redesign to improve f
 - Responsive design (mobile-friendly)
 - Smooth layout and typography
 
-##🛠️ Tools Used
+## 🛠️ Tools Used
 -Figma ![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
 
 

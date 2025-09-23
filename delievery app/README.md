@@ -18,4 +18,4 @@ The design focuses on **clean navigation, minimal visuals, and an intuitive user
 
 ![Delivery App UI](./mockup.png)
 
-🔗 [Live Prototype on Figma](https://www.figma.com/design/09rSTn0eVjRvJUNk581VGS/Delivery-App_UI-Kit?node-id=33-444&t=KfmXfnN5KBqzBhPq-1)
+🔗 [See It in Action on Figma](https://www.figma.com/design/09rSTn0eVjRvJUNk581VGS/Delivery-App_UI-Kit?node-id=33-444&t=KfmXfnN5KBqzBhPq-1)

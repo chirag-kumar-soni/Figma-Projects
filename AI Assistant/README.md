@@ -18,3 +18,12 @@ The design focuses on **clean layout, quick access, and a futuristic feel** to s
 
 ## 🔗 Live Prototype
 [View on Figma](https://www.figma.com/...)
+
+## 🚀 Let’s Connect
+
+💌 Have feedback, opportunities, or just want to say hi?
+👉 [Contact me on **LinkedIn**](https://www.linkedin.com/in/chirag-kumar-soni)  | [Email me](mailto:chiragksoni0@gmail.com)
+
+✨ ***Always open to collaboration and new ideas!***
+
+---

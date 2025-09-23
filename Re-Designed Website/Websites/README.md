@@ -18,5 +18,11 @@ A mordern, responsive, and visually appelaing landing page redesign to improve f
 ## 📸 Preview
 ![Redesigned Website](./redesigned_website.jpg)
 
+## 🚀 Let’s Connect
+
+💌 Have feedback, opportunities, or just want to say hi?
+👉 [Contact me on **LinkedIn**](https://www.linkedin.com/in/chirag-kumar-soni)  | [Email me](mailto:chiragksoni0@gmail.com)  
+
+✨ ***Always open to collaboration and new ideas!***
 
 ---

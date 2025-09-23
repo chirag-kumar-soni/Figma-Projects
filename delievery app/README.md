@@ -19,3 +19,12 @@ The design focuses on **clean navigation, minimal visuals, and an intuitive user
 ![Delivery App UI](./mockup.png)
 
 🔗 [See It in Action on Figma](https://www.figma.com/design/09rSTn0eVjRvJUNk581VGS/Delivery-App_UI-Kit?node-id=33-444&t=KfmXfnN5KBqzBhPq-1)
+
+## 🚀 Let’s Connect
+
+💌 Have feedback, opportunities, or just want to say hi?
+👉 [Contact me on **LinkedIn**](https://www.linkedin.com/in/chirag-kumar-soni)  | [Email me](mailto:chiragksoni0@gmail.com)
+
+✨ ***Always open to collaboration and new ideas!***
+
+---

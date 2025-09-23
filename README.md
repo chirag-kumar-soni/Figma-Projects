@@ -1,9 +1,15 @@
-# Hi 👋  
+# Hi 👋
 
 ---
 
- This repository contains my UI/UX design projects created in **Figma** ![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
+This repository showcases my **UI/UX design projects** created in **Figma**
 
 ---
 
- All the products are grouped into separate folders. Each folder contains a project. Every project's live link is also available beside the live link, you can also view the projects preview.
+📂 All projects are organized into separate folders for easy navigation.
+🔗 Each folder includes the project files along with a **live prototype link**.
+🖼️ You can also view a quick **preview** of the design before exploring the full project.
+
+
+
+---

@@ -10,7 +10,7 @@ All of the pages are fully responsive and designed to look great and clean acros
 
 💌 Have feedback, opportunities, or just want to say hi?
 
-👉 [Contact me on **LinkedIn**](https://www.linkedin.com/in/chirag-kumar-soni)  | [Email me](mailto:chiragksoni0@gmail.com)
+👉 [Contact me on ***LinkedIn***](https://www.linkedin.com/in/chirag-kumar-soni)  | [Email me](mailto:chiragksoni0@gmail.com)
 
 ✨ ***Always open to collaboration and new ideas!***
 

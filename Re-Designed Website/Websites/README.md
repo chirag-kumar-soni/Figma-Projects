@@ -16,7 +16,7 @@ A mordern, responsive, and visually appelaing landing page redesign to improve f
 ---
 
 ## 📸 Preview
-![Redesigned Website](./redesigned_website.jpg)
+![Redesigned Website](./image(s)/redesigned_website.jpg)
 
 ## 🚀 Let’s Connect
 

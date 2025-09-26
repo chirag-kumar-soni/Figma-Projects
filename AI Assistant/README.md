@@ -17,7 +17,7 @@
 ![AI Assistant UI](./assistantmockup.png)
 
 ## 🔗 Live Prototype
-[View on Figma](https://www.figma.com/...)
+[See it in **Action** on **Figma**](https://www.figma.com/...)
 
 ## 🚀 Let’s Connect
 

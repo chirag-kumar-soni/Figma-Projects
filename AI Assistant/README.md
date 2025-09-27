@@ -14,7 +14,9 @@
 ![Made with Figma](https://img.shields.io/badge/Made%20with-Figma-blue?logo=figma)
 
 ## 🎨 Preview
-![AI Assistant UI](./assistantmockup.png)
+<p align="left">
+    <img src="./assistantmockup.png" alt="Preview 👇" width="555">
+</p>
 
 ## 🔗 Live Prototype
 [See it in **Action** on **Figma**](https://www.figma.com/...)

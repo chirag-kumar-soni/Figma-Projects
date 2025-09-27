@@ -17,7 +17,7 @@ A mordern, responsive, and visually appelaing landing page redesign to improve f
 
 ## 📸 Preview
 <p align="left">
-   <img src="./images/redesigned_website.jpg" alt="Page 👇" width="500">
+   <img src="./images/redesigned_website.jpg" alt="Page 👇" width="555">
 </p>
 
 ## 🚀 Let’s Connect

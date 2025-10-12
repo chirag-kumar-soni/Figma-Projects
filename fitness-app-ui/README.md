@@ -64,7 +64,7 @@ The goal was to blend **fitness motivation** with a **clean, gamified interface*
 
 **Chirag Kumar Soni**  
 📍 UI/UX & Graphic Designer  
-[LinkedIn](https://www.linkedin.com/in/chirag-kumar-soni) • [Portfolio](https://github.com/chirag-kumar-soni)
+* [LinkedIn](https://www.linkedin.com/in/chirag-kumar-soni) • [Portfolio](https://github.com/chirag-kumar-soni)
 
 ---
 

@@ -19,7 +19,9 @@ It also features **anime-inspired visuals** for motivation and personalization.
 - 🏃 Steps and heart rate tracking UI    
 - 😴 Sleep monitor and workout planner  
 - ⚙️ Settings & customization options  
-- 🎨 Anime-inspired theme for motivation  
+- 🎨 Anime-inspired theme for motivation
+
+
 <br>
 
 ---
@@ -32,9 +34,7 @@ It also features **anime-inspired visuals** for motivation and personalization.
 
 <br>
 
-<img src="images/Home-Screen.png" alt="Home Screen" width="200"/> <img src="images/LogIn-Screen.png" alt="LogIn Screen" width="200"/> <img src="images/Signup-Screen.png" alt="SignUp Screen" width="200"/> <img src="images/Settings-Screen.png" alt="Settings Screen" width="200"/>
-
-<img src="images/Main-Screen.png" alt="Main Screen" width="200"/> <img src="images/Profile-Section.png" alt="Profile-Section" width="200"/> <img src="images/Steps-Screen.png" alt="Steps Screen" Width="200"/> <img src="images/Workout-Screen.png" alt="Workout Screen" width="200"/>
+<img src="images/Home-Screen.png" alt="Home Screen" width="200"/> <img src="images/LogIn-Screen.png" alt="LogIn Screen" width="200"/> <img src="images/Signup-Screen.png" alt="SignUp Screen" width="200"/> <img src="images/Settings-Screen.png" alt="Settings Screen" width="200"/> <hr> <img src="images/Main-Screen.png" alt="Main Screen" width="200"/> <img src="images/Profile-Section.png" alt="Profile-Section" width="200"/> <img src="images/Steps-Screen.png" alt="Steps Screen" Width="200"/> <img src="images/Workout-Screen.png" alt="Workout Screen" width="200"/>
 
 ---
 
@@ -63,8 +63,7 @@ The goal was to blend **fitness motivation** with a **clean, gamified interface*
 ## 👨‍🎨 Designer
 
 **Chirag Kumar Soni**  
-📍 UI/UX & Graphic Designer  
-* [LinkedIn](https://www.linkedin.com/in/chirag-kumar-soni) • [Portfolio](https://github.com/chirag-kumar-soni)
+📍 UI/UX & Graphic Designer   [My LinkedIn](https://www.linkedin.com/in/chirag-kumar-soni) • [My Portfolio](https://github.com/chirag-kumar-soni)
 
 ---
 

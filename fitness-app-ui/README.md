@@ -34,7 +34,11 @@ It also features **anime-inspired visuals** for motivation and personalization.
 
 <br>
 
-<img src="images/Home-Screen.png" alt="Home Screen" width="200"/> <img src="images/LogIn-Screen.png" alt="LogIn Screen" width="200"/> <img src="images/Signup-Screen.png" alt="SignUp Screen" width="200"/> <img src="images/Settings-Screen.png" alt="Settings Screen" width="200"/> <hr> <img src="images/Main-Screen.png" alt="Main Screen" width="200"/> <img src="images/Profile-Section.png" alt="Profile-Section" width="200"/> <img src="images/Steps-Screen.png" alt="Steps Screen" Width="200"/> <img src="images/Workout-Screen.png" alt="Workout Screen" width="200"/>
+<img src="images/Home-Screen.png" alt="Home Screen" width="200"/> <img src="images/LogIn-Screen.png" alt="LogIn Screen" width="200"/> <img src="images/Signup-Screen.png" alt="SignUp Screen" width="200"/> <img src="images/Settings-Screen.png" alt="Settings Screen" width="200"/> 
+
+<hr>
+
+<img src="images/Main-Screen.png" alt="Main Screen" width="200"/> <img src="images/Profile-Section.png" alt="Profile-Section" width="200"/> <img src="images/Steps-Screen.png" alt="Steps Screen" Width="200"/> <img src="images/Workout-Screen.png" alt="Workout Screen" width="200"/>
 
 ---
 

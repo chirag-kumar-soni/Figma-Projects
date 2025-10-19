@@ -34,7 +34,6 @@ It also features **anime-inspired visuals** for motivation and personalization.
 
 <br>
 
-
 ---
 
 ## 🧰 Tools Used

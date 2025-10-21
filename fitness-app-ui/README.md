@@ -32,6 +32,13 @@ It also features **anime-inspired visuals** for motivation and personalization.
   <img src="images/fitness-app-ui-mockup.png" alt="Sneak Peak👀"  width="550" />
   </p>
 
+
+<img src="images/Home-Screen.png" alt="Main/Splash Screen" width="100"/>  <img src="images/Signup-Screen.png" alt="SignUp Screen" width="100"/> <img src="images/LogIn-Screen.png" alt="LogIn SCreen" width="100"/> <img src="images/Settings-Screen.png" alt="Settings Screen" width="100"/>
+
+<hr>
+
+<img src="images/Main-Screen.png" alt="Main Screen" width="100"/> <img src="images/Profile-Section.png" alt="Profile Section" width="100"/> <img src="images/Steps-Screen.png" alt="Steps-Screen" width="100"/> <img src="images/Workout-Screen.png" alt="Workout Screen" width="100"/>
+
 <br>
 
 ---
